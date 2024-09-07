@@ -1,4 +1,5 @@
 # Retrieval-Augmented Generation (RAG) System for Document Analysis
+![Uploading image.png…]()
 
 ## Overview
 
