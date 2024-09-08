@@ -1,5 +1,5 @@
 # Retrieval-Augmented Generation (RAG) System for Document Analysis
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/be191f0a-b614-41de-ac50-c3c7f9df91bb)
 
 ## Overview
 
